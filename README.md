@@ -26,7 +26,7 @@ Si no eres programador o estas aprendidendo el arte del desarrollo de aplicacion
 | Multiplicación        | (a * b) [ 2 * 2 = 4 ]  |
 | División              | (a / b) [ 2 / 2 = 1 ]  |
 | Exponenciación        | (a ^ b) [ 2 ^ 2 = 4 ]  |
-| Raíz Cuadrada         | (a √ b) [ 2 √ 1 = 2 ]  |
+| Raíz Cuadrada         | (√ b)   [ √ 1 = 1 ]    |
 
 
 Descargo de Responsabilidad (Disclaimer): 
